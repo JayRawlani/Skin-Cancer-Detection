@@ -1,0 +1,2 @@
+# Skin Cancer Detection
+ This was our Predictive Analytics project in which we had to implement skin cancer classification model. To classify the dataset into Malignant and Benign. Here we have used different approaches for the same. First was by using CNN for deep learning and another consisting of different classifiers on training dataset first then dividing the dataset into 80-20 ratio and applying the classifiers again and then compring the accuracy.
